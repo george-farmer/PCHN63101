@@ -22,15 +22,6 @@ First I'd like you to watch the following video on the history of the replicatio
 
 &nbsp;&nbsp;
 
-<!-- #### Slides {-} -->
-
-<!-- <center> -->
-
-<!-- [![Link to Open Research slides](../images/cw20.png){width=75%}](https://docs.google.com/presentation/d/1UOkWayJ5J7j2Xg1Y05sbkK-iWtlkAVvtalOu4VuEq4c/edit?usp=sharing) -->
-
-<!-- </center> -->
-
-<!-- &nbsp;&nbsp; -->
 
 Before watching the next video, please have a read through the following paper by Ionnidis (2005) which arguably started the conversation around reproducibility that has had such an impact on research in Psychology and across the Biomedical sciences for the last few years. Clicking on the image below will take you to the paper. 
 
@@ -68,20 +59,14 @@ One of the biggest challenges facing researchers who are used to the **old** way
 
 <iframe width="560" height="315" src="https://youtube.com/embed/BscWSJFmsHE" data-external="1" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;&nbsp;
+
+**Video update:** We will look at package called Groundhog rather than Binder. You can see the .rmd for this workshop [here](
+https://github.com/george-farmer/PCHN63101/blob/main/01-OpenScience.Rmd)
 </center>
 
 &nbsp;&nbsp;
 
-<!-- #### Slides {-} -->
-
-<!-- <center> -->
-
-<!-- [![Link to how to do open research slides](../images/how_to_do.png){width=75%}]( -->
-<!-- https://docs.google.com/presentation/d/1WzSk2Ra-OLrMCPTCoQoKoF_utsq_TNu53TxoXEC82Lw/edit?usp=sharing) -->
-
-<!-- </center> -->
-
-<!-- &nbsp;&nbsp; -->
 
 #### Crüwell et al. (2019) {-}
 
@@ -122,16 +107,6 @@ One solution to the challenge is to conduct data simulation as part of the exper
 
 If you're interested in reading more about power, you might like to take a look at [this classic "Power Primer" paper](https://pubmed.ncbi.nlm.nih.gov/19565683/) by Jacob Cohen.
 
-<!-- #### Slides {-} -->
-
-<!-- You can download the slides in .odp format by clicking [here](../slides/experimental_power.odp) and in .pdf format by clicking on the image below.  -->
-<!-- &nbsp;&nbsp; -->
-
-<!-- <center> -->
-
-<!-- [![Link to Power slides](../images/experimental_power.png){width=75%}](../slides/experimental_power.pdf) -->
-
-<!-- </center> -->
 
 &nbsp;&nbsp;
 
